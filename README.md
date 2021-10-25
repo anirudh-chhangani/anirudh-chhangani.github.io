@@ -1,2 +1,3 @@
-# anirudh-chhangani.github.io
-anirudh-chhangani blog
+# anirudh-chhangani blog
+
+### contact@anirudhchhangani.com
