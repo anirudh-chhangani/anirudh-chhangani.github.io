@@ -1,7 +1,6 @@
 ---
 .title = "Homepage",
 .date = .date("2026-08-26T00:00:00"),
-.author = "anirudh chhangani",
 .layout = "index.shtml",
 .draft = false,
 ---

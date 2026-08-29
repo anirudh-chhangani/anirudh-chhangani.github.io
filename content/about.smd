@@ -1,11 +1,10 @@
 ---
 .title = "About",
 .date = .date("2026-08-26T00:00:00"),
-.author = "anirudh chhangani",
 .layout = "index.shtml",
 .draft = false,
 ---
 
-## About
+# About
 
 [LinkedIn](https://www.linkedin.com/in/anirudhchhangani)

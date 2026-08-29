@@ -1,7 +1,6 @@
 ---
 .title = "Teleprompter: Learning with Zig?",
 .date = .date("2026-08-29"),
-.author = "anirudh chhangani",
 .layout = "post.shtml",
 .draft = true,
 ---
