@@ -1,4 +1,8 @@
-Site {
+.zine_version = "0.13.0",
+.supermd = .{
+    .auto_target_blank = true,
+},
+.site = .simple(.{
     .title = "Welcome Wanderer!",
     .host_url = "https://anirudhchhangani.com",
     .content_dir_path = "content",
@@ -7,4 +11,4 @@ Site {
     .static_assets = [
         "Temml.woff2",
     ],
-}
+}),
