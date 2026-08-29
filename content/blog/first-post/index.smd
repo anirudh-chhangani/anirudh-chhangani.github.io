@@ -1,12 +1,12 @@
 ---
-.title = "Teleprompter: Learning with Zig?",
+.title = "Learning Zig?",
 .date = .date("2026-08-29"),
 .layout = "post.shtml",
 .draft = false,
 ---
 # Started learning Zig!
 
-Why? Why a new language in the day and age of LLMs — are you mad? Let AI do the work.
+Why? Why a new language in the day and age of LLMs — are you mad? Let AI do the code.
 
 **Because I want to.**
 
@@ -44,7 +44,7 @@ C lacked all the modern features that we take for granted in languages like Pyth
 
 Somehow I stumbled upon Zig — *a better C*. Not just better, but a better alternative. From what it looks like at the moment anyways; I have only written basic programs in Zig, so what do I know.
 
-BUT why Zig? Why not just use LLMs, C3, or any other language?
+BUT why Zig? Why not just use Odin, C3, or any other language?
 
 **Because I want to.**
 
