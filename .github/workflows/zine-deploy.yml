@@ -26,14 +26,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Change if you need git info
+          fetch-depth: 0  # Change if you need git info
 
       - name: Setup Zine
-        uses: kristoff-it/setup-zine@v1
-        with:
-          version: v0.11.2
+        uses: kristoff-it/setup-zine@v2
 
-      - name: Release
+      - name: Build
         run: zine release
 
       - name: Setup Pages
@@ -42,7 +40,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "public"
+          path: 'public'
 
       - name: Deploy to GitHub Pages
         id: deployment
